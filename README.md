@@ -1,4 +1,11 @@
-pickpocket
-==========
+# pickpocket
 
-steals memory and resources...
+Stealz ur resourzes
+
+	var pickpocket = new Pickpocket();
+	pickpocket.destroy();
+
+
+
+
+More to come....
